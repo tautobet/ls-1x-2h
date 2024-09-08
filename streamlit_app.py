@@ -29,7 +29,7 @@ def page_load():
         layout="wide",
         initial_sidebar_state="expanded"
     )
-    st.header("1XBET", divider="rainbow")
+    st.header("1X", divider="rainbow")
 
 
 # End
