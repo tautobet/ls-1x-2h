@@ -24,7 +24,7 @@ def fetch_emojis():
 # Begin streamlit UI
 def page_load():
     st.set_page_config(
-        page_title="Livescore App",
+        page_title="2h-1xbet",
         page_icon=":soccer:",
         layout="wide",
         initial_sidebar_state="expanded"
