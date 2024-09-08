@@ -24,12 +24,12 @@ def fetch_emojis():
 # Begin streamlit UI
 def page_load():
     st.set_page_config(
-        page_title="2h-1xbet",
+        page_title="1x-2h",
         page_icon=":soccer:",
         layout="wide",
         initial_sidebar_state="expanded"
     )
-    st.header("1X", divider="rainbow")
+    st.header("1X-2H", divider="rainbow")
 
 
 # End
